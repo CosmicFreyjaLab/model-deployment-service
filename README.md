@@ -1,3 +1,3 @@
 # ml-deployment-service
 
-Deployable ML-models with OpenAI-compatible API.
+Seamless deployment of self-trained models with OpenAI-compatible API.
